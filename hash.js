@@ -6,7 +6,7 @@ let saltRounds = 10
 // YOU WORD
 // 
 // 
-let myString = 'mysecretword'
+let myString = 'pizzacrypt'
 
 
 // BRYPT BLOCK
